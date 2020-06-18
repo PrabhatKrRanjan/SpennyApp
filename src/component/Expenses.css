@@ -1,0 +1,118 @@
+.Expenses {
+  width: 400px;
+  height: 812px;
+  background-color: #f8f9f9;
+}
+
+nav {
+  display: flex;
+  justify-content: flex-end;
+  padding: 20px;
+}
+
+.time {
+  margin-right: auto;
+}
+
+nav > div > img {
+  width: 27px;
+  height: 15px;
+}
+
+.wifi {
+  margin: 0px 10px;
+}
+
+.expense-view {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.expense-view > div {
+  font-size: 25px;
+}
+
+.expense-view > div > img {
+  height: 30px;
+  width: 30px;
+}
+
+.card-balance {
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+}
+
+.card-balance > div {
+  color: grey;
+}
+
+.card-amt {
+  color: green;
+  font-size: 18px;
+  margin-left: 10px;
+}
+
+.card-balance > div > img {
+  height: 18px;
+  width: 20px;
+}
+
+.balance {
+  display: flex;
+  padding: 0px 20px;
+  margin-top: -10px;
+  justify-content: space-between;
+}
+
+.balance > div {
+  color: rgb(27, 19, 19);
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.amt {
+  color: red;
+  font-size: 18px;
+  margin-left: 10px;
+}
+
+.balance > div > img {
+  height: 18px;
+  width: 20px;
+}
+
+footer {
+  padding: 20px;
+}
+footer > p {
+  font-size: 20px;
+}
+
+footer > div {
+  display: flex;
+  border: 1px solid f8f9f9;
+  background-color: #ffffff;
+  border-radius: 6px;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.expanse-name {
+  font-size: 18px;
+}
+
+.expense-icon {
+  padding: 5px;
+  height: 45px;
+  width: 45px;
+}
+.expanse-date {
+  color: gray;
+  font-size: 14px;
+}
+.expanse-amt {
+  color: red;
+}
