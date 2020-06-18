@@ -1,6 +1,6 @@
 ### Demo Link
 
-[Click Here](https://affectionate-bose-26b962.netlify.com/) to view it in the browser.
+[Click Here](https://unruffled-williams-8f251a.netlify.app/) to view it in the browser.
 
 ## Installation
 - Clone the repo in your terminal by clicking the _green_ clone or download button at the top right and copying the url
